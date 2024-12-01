@@ -1,0 +1,17 @@
+# Visual Studio 文件
+.vs/
+ipch/
+Debug/
+Release/
+x64/
+x86/
+
+# 大文件类型
+*.pch
+*.ipch
+*.db
+*.opendb
+*.suo
+*.user
+*.sdf
+*.opensdf
